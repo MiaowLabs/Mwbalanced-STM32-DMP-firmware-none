@@ -1,0 +1,17 @@
+.\Output\common.o: User\common.c
+.\Output\common.o: d:\Keil\ARM\RV31\INC\stdio.h
+.\Output\common.o: User\common.h
+.\Output\common.o: User\usart.h
+.\Output\common.o: .\CMSIS\stm32f10x.h
+.\Output\common.o: .\CMSIS\core_cm3.h
+.\Output\common.o: d:\Keil\ARM\RV31\INC\stdint.h
+.\Output\common.o: .\CMSIS\system_stm32f10x.h
+.\Output\common.o: .\User\stm32f10x_conf.h
+.\Output\common.o: .\FWlib\inc\stm32f10x_dma.h
+.\Output\common.o: .\CMSIS\stm32f10x.h
+.\Output\common.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Output\common.o: .\FWlib\inc\stm32f10x_i2c.h
+.\Output\common.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Output\common.o: .\FWlib\inc\stm32f10x_tim.h
+.\Output\common.o: .\FWlib\inc\stm32f10x_usart.h
+.\Output\common.o: .\FWlib\inc\misc.h

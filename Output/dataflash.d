@@ -1,0 +1,17 @@
+.\Output\dataflash.o: User\dataflash.c
+.\Output\dataflash.o: .\FWlib\inc\stm32f10x_flash.h
+.\Output\dataflash.o: .\CMSIS\stm32f10x.h
+.\Output\dataflash.o: .\CMSIS\core_cm3.h
+.\Output\dataflash.o: d:\Keil\ARM\RV31\INC\stdint.h
+.\Output\dataflash.o: .\CMSIS\system_stm32f10x.h
+.\Output\dataflash.o: .\User\stm32f10x_conf.h
+.\Output\dataflash.o: .\FWlib\inc\stm32f10x_dma.h
+.\Output\dataflash.o: .\CMSIS\stm32f10x.h
+.\Output\dataflash.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Output\dataflash.o: .\FWlib\inc\stm32f10x_i2c.h
+.\Output\dataflash.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Output\dataflash.o: .\FWlib\inc\stm32f10x_tim.h
+.\Output\dataflash.o: .\FWlib\inc\stm32f10x_usart.h
+.\Output\dataflash.o: .\FWlib\inc\misc.h
+.\Output\dataflash.o: User\upstandingcar.h
+.\Output\dataflash.o: User\dataflash.h
